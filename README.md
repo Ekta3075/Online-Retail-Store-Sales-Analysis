@@ -1,11 +1,11 @@
 📊 Online Retail Store Sales Analysis
 
-📌 Project Overview
+📌 Project Overview:-
 
 This Power BI project provides a data-driven analysis of an online retail store's sales performance. The dashboard offers insights into customer purchasing behavior, revenue distribution, and sales trends.
 
 
-📊 Features
+📊 Features:-
 
 ● Sales by Country: World map visualization of sales distribution.
 
@@ -16,7 +16,7 @@ This Power BI project provides a data-driven analysis of an online retail store'
 ● Quantity & Revenue by Country: Compares sales quantity and revenue across different countries.
 
 
-📂 Files in Repository
+📂 Files in Repository:-
 
 ● Online_Retail_Sales.pbix - Power BI dashboard file.
 
@@ -27,7 +27,7 @@ This Power BI project provides a data-driven analysis of an online retail store'
 ● KeyInsights_Online_Retail_Sales - Key findings and insights from the analysis.
 
 
-📂 Dataset Information
+📂 Dataset Information:-
 
 The dataset contains:
 
@@ -38,7 +38,7 @@ The dataset contains:
 ● Geographical Information (Country-wise sales distribution)
 
 
-🚀 How to Use
+🚀 How to Use:-
 
 1) Download the Online_Retail_Sales.pbix file.
 
